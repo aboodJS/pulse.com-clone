@@ -11,7 +11,7 @@ function NavBar() {
         <li>Blog</li>
         <li>Sign Up</li>
       </ul>
-      <img id="menu-svg" src="src/assets/menu.svg" alt="" />
+      <img id="menu-svg" color="#00ad6a" src="src/assets/menu.svg" alt="" />
     </nav>
   );
 }
